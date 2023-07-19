@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Belanosima&family=Poppins:wght@300&display=swap');
+
+    *{
+        font-family: 'Poppins', sans-serif;
+    }
+
+    h1,h2,h3,h4,h5,h6{
+        font-family: 'Belanosima', sans-serif;
+    }
+
+#logo{
+    width: 10%;
+}
